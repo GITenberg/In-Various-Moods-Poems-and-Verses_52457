@@ -1,0 +1,31 @@
+_repo: In-Various-Moods-Poems-and-Verses_52457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+tableOfContents: In various moods -- The sowers -- The New World -- Faith -- Ballad
+  of the sabre cross and 7 -- Whisperin' Bill -- The red dew -- The baby corps --
+  Picture, sound and song -- The ven'son-tree -- Him an' me -- A voice of the fields
+  -- The weaver's dye -- The slumber ship -- Old home, good-bye! -- The rustic dance
+  -- To a dead classmate.
+title: 'In Various Moods: Poems and Verses'
+url: http://www.gutenberg.org/ebooks/52457
